@@ -102,15 +102,7 @@ Communication-Analytics-Platform
 - Designed interactive dashboards featuring timelines, heatmaps, word clouds, and user engagement metrics.
 - Performed sentiment classification and behavioral analytics on thousands of chat messages.
 
----
 
-# Author
-
-### Shreyansh Rathi
-
-GitHub: https://github.com/Shreyansh123Rathi
-
-LinkedIn: https://www.linkedin.com/in/shreyanshrathi1/
 
 ---
 
